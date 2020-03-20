@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Zapatos para damas y caballeros </title>
+</head>
+
+<body>
+	<p align="center"><h1><b><big>Damas</big></h1></b></p>
+
+		<img src="zapato1.jpg" height="150px" width="15%" border="10px" alt="" /> <img src="zapato2.jpg" height="150px" width="15%" border="10px" alt="" /> <img src="zapato4.jpg" height="150px" width="15%" border="10px" alt="" />
+
+
+	<p  align="center"><h1><b><big> Caballeros</big></b></p></h1>
+	<img src="zapato6.jpg" height="150px" width="15%" border="10px" alt="" /> <img src="zapato7.jpg" height="150px" width="15%" border="10px" alt="" /> <img src="zapato9.jpg" height="150px" width="15%" border="10px" alt="" />
+
+	<a href="https://www.calzadocoban.com/?gclid=Cj0KCQjw09HzBRDrARIsAG60GP-ZBfSp1K7cVCeSGNy7lAI5qGB_ZPmizNkZiiHEerwVkBuRYoQIUZYaAvnMEALw_wcB">Ver mas zapatos</a>
+
+
+</body>
+</html>
